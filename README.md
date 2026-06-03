@@ -17,3 +17,5 @@ This project detects whether a news article is fake or real using Machine Learni
 
 3. Run app:
    streamlit run app.py
+
+---
