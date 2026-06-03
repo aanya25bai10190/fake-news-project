@@ -8,6 +8,8 @@ This project detects whether a news article is fake or real using Machine Learni
 - Logistic Regression Model
 - Streamlit Web App
 
+---
+
 ## How to Run
 1. Install requirements:
    pip install -r requirements.txt
@@ -17,5 +19,5 @@ This project detects whether a news article is fake or real using Machine Learni
 
 3. Run app:
    streamlit run app.py
-
+   
 ---
